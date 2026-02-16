@@ -5,11 +5,11 @@ Some stickers for my bots to use.一些给我的bot们使用的表情包。
 这里是我的 Bot 专用表情包仓库，主要作为图床使用。
 
 ### 📁 内容说明
-- **Stickers**: 各种奇奇怪怪、可可爱爱的表情包。
+- **Stickers**: 各种奇奇怪怪、可可爱爱的Hallu表情包。
 
 ### 🔗 如何使用 (图床直链获取)
 如果你想在自己的项目里引用，请使用 jsDelivr 加速链接：
-`https://cdn.jsdelivr.net/gh/你的用户名/仓库名/路径/文件名.png`
+`https://cdn.jsdelivr.net/gh/MorphieEndless/Stickers/Pics/文件名.png`
 
 ---
 
