@@ -9,7 +9,7 @@ Some stickers for my bots to use.一些给我的bot们使用的表情包。
 
 ### 🔗 如何使用 (图床直链获取)
 如果你想在自己的项目里引用，请使用 jsDelivr 加速链接：
-`https://cdn.jsdelivr.net/gh/MorphieEndless/Stickers/Pics/文件名.png`
+`https://cdn.jsdelivr.net/gh/MorphieEndless/Stickers/Pics/文件名.jpg`
 
 ---
 
